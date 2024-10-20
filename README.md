@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kirill Tobola</h1>
-<h3 align="center">Developer from Russia</h3>
+# Hi there 👋
 
-- 📫 How to reach me: **https://t.me/kirilltobola**
+My name is Kirill, I am a PhD student/research-intern at ISDCT SB RAS. 
+
+### My research interests are:
+- \#NLP
+- \#tabular-data
+- \#semantic-table-interpretation
+- \#russian-language
+
+### Links
+- :speech_balloon: [Ask me something](https://t.me/kirilltobola)
+- :scroll: [My publicatoins](https://www.researchgate.net/profile/Kirill-Tobola)
