@@ -6,7 +6,6 @@ My name is Kirill, I am a PhD student/research-intern at ISDCT SB RAS.
 - \#NLP
 - \#tabular-data
 - \#semantic-table-interpretation
-- \#russian-language
 
 ### Links
 - :speech_balloon: [Ask me something](https://t.me/kirilltobola)
